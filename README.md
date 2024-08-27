@@ -1,2 +1,7 @@
-# 21BCE7010_Sai-Pranav-Kothapalli_Doofus-Adventure
- Meet our character Doofus, a cube that loves exploring green platforms called Pulpits. The catch? Pulpits don't last long and disappear within seconds. Doofus has set a challenge to walk on at least 50 Pulpits.
+# Doofus Adventure
+
+Welcome to **Doofus Adventure**, a thrilling Unity game where you guide our lovable humanoid character, Doofus, across disappearing green platforms known as Pulpits. Your challenge? To help Doofus walk on at least 50 Pulpits before they vanish beneath his feet!
+
+## Demo Video:
+https://github.com/user-attachments/assets/3b049eb7-62d4-41ff-9d8a-f05f2525da06
+
