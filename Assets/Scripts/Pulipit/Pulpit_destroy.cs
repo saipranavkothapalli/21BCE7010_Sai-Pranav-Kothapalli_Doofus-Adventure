@@ -21,7 +21,6 @@ public class Pulpit_destroy : MonoBehaviour
 
         yield return new WaitForSeconds(Mathf.Max(remainingTime, 5f));
 
-        // Assuming the class name should be 'PulpitReplacement'
         GameObject.Find("Pulpit").GetComponent<PuplitReplacement>().count--;
 
         Destroy(gameObject);
